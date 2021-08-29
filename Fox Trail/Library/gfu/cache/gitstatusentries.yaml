@@ -13,9 +13,325 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-08-28T20:12:31.445-05:00
-  initializedAtString: 2021-08-28T20:09:31.209-05:00
+  lastUpdatedAtString: 2021-08-28T20:23:28.941-05:00
+  initializedAtString: 2021-08-28T20:14:54.872-05:00
   entries:
+  - path: Fox Trail\Assets\Low Poly Water.meta
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\Low
+      Poly Water.meta
+    projectPath: Assets\Low Poly Water.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\Low Poly Water\Plane Meshes.meta
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\Low
+      Poly Water\Plane Meshes.meta
+    projectPath: Assets\Low Poly Water\Plane Meshes.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\Low Poly Water\Plane Meshes\Plane1x1W10H10.asset
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\Low
+      Poly Water\Plane Meshes\Plane1x1W10H10.asset
+    projectPath: Assets\Low Poly Water\Plane Meshes\Plane1x1W10H10.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\Low Poly Water\Plane Meshes\Plane1x1W10H10.asset.meta
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\Low
+      Poly Water\Plane Meshes\Plane1x1W10H10.asset.meta
+    projectPath: Assets\Low Poly Water\Plane Meshes\Plane1x1W10H10.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack.meta
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack.meta
+    projectPath: Assets\LowPolyWater_Pack.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\_Demo.meta
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\_Demo.meta
+    projectPath: Assets\LowPolyWater_Pack\_Demo.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\_Demo\DemoScene.unity
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\_Demo\DemoScene.unity
+    projectPath: Assets\LowPolyWater_Pack\_Demo\DemoScene.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\_Demo\DemoScene.unity.meta
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\_Demo\DemoScene.unity.meta
+    projectPath: Assets\LowPolyWater_Pack\_Demo\DemoScene.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\Animation.meta
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\Animation.meta
+    projectPath: Assets\LowPolyWater_Pack\Animation.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\Animation\CameraAnim.anim
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\Animation\CameraAnim.anim
+    projectPath: Assets\LowPolyWater_Pack\Animation\CameraAnim.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\Animation\CameraAnim.anim.meta
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\Animation\CameraAnim.anim.meta
+    projectPath: Assets\LowPolyWater_Pack\Animation\CameraAnim.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\Animation\CameraAnimator.controller
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\Animation\CameraAnimator.controller
+    projectPath: Assets\LowPolyWater_Pack\Animation\CameraAnimator.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\Animation\CameraAnimator.controller.meta
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\Animation\CameraAnimator.controller.meta
+    projectPath: Assets\LowPolyWater_Pack\Animation\CameraAnimator.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\Documentation.meta
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\Documentation.meta
+    projectPath: Assets\LowPolyWater_Pack\Documentation.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\Documentation\LowPolyWater.pdf
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\Documentation\LowPolyWater.pdf
+    projectPath: Assets\LowPolyWater_Pack\Documentation\LowPolyWater.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\Documentation\LowPolyWater.pdf.meta
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\Documentation\LowPolyWater.pdf.meta
+    projectPath: Assets\LowPolyWater_Pack\Documentation\LowPolyWater.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\LowPoly Island.meta
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\LowPoly
+      Island.meta
+    projectPath: Assets\LowPolyWater_Pack\LowPoly Island.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\LowPoly Island\Credits.txt
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\LowPoly
+      Island\Credits.txt
+    projectPath: Assets\LowPolyWater_Pack\LowPoly Island\Credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\LowPoly Island\Credits.txt.meta
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\LowPoly
+      Island\Credits.txt.meta
+    projectPath: Assets\LowPolyWater_Pack\LowPoly Island\Credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\LowPoly Island\island1_design2_c4d.obj
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\LowPoly
+      Island\island1_design2_c4d.obj
+    projectPath: Assets\LowPolyWater_Pack\LowPoly Island\island1_design2_c4d.obj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\LowPoly Island\island1_design2_c4d.obj.meta
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\LowPoly
+      Island\island1_design2_c4d.obj.meta
+    projectPath: Assets\LowPolyWater_Pack\LowPoly Island\island1_design2_c4d.obj.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\LowPoly Island\Materials.meta
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\LowPoly
+      Island\Materials.meta
+    projectPath: Assets\LowPolyWater_Pack\LowPoly Island\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\LowPoly Island\Materials\defaultMat.mat
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\LowPoly
+      Island\Materials\defaultMat.mat
+    projectPath: Assets\LowPolyWater_Pack\LowPoly Island\Materials\defaultMat.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\LowPoly Island\Materials\defaultMat.mat.meta
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\LowPoly
+      Island\Materials\defaultMat.mat.meta
+    projectPath: Assets\LowPolyWater_Pack\LowPoly Island\Materials\defaultMat.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\LowPoly Island\Materials\IslandMat.mat
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\LowPoly
+      Island\Materials\IslandMat.mat
+    projectPath: Assets\LowPolyWater_Pack\LowPoly Island\Materials\IslandMat.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\LowPoly Island\Materials\IslandMat.mat.meta
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\LowPoly
+      Island\Materials\IslandMat.mat.meta
+    projectPath: Assets\LowPolyWater_Pack\LowPoly Island\Materials\IslandMat.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\LowPoly Island\textures.meta
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\LowPoly
+      Island\textures.meta
+    projectPath: Assets\LowPolyWater_Pack\LowPoly Island\textures.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\LowPoly Island\textures\textureAmbient_Occlusion.jpg
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\LowPoly
+      Island\textures\textureAmbient_Occlusion.jpg
+    projectPath: Assets\LowPolyWater_Pack\LowPoly Island\textures\textureAmbient_Occlusion.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\LowPoly Island\textures\textureAmbient_Occlusion.jpg.meta
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\LowPoly
+      Island\textures\textureAmbient_Occlusion.jpg.meta
+    projectPath: Assets\LowPolyWater_Pack\LowPoly Island\textures\textureAmbient_Occlusion.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\LowPoly Island\textures\textureSurface_Color_2.jpg
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\LowPoly
+      Island\textures\textureSurface_Color_2.jpg
+    projectPath: Assets\LowPolyWater_Pack\LowPoly Island\textures\textureSurface_Color_2.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\LowPoly Island\textures\textureSurface_Color_2.jpg.meta
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\LowPoly
+      Island\textures\textureSurface_Color_2.jpg.meta
+    projectPath: Assets\LowPolyWater_Pack\LowPoly Island\textures\textureSurface_Color_2.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\Materials.meta
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\Materials.meta
+    projectPath: Assets\LowPolyWater_Pack\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\Materials\LowPolyWaterMaterial.mat
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\Materials\LowPolyWaterMaterial.mat
+    projectPath: Assets\LowPolyWater_Pack\Materials\LowPolyWaterMaterial.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\Materials\LowPolyWaterMaterial.mat.meta
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\Materials\LowPolyWaterMaterial.mat.meta
+    projectPath: Assets\LowPolyWater_Pack\Materials\LowPolyWaterMaterial.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\Plane Meshes.meta
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\Plane
+      Meshes.meta
+    projectPath: Assets\LowPolyWater_Pack\Plane Meshes.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\Plane Meshes\Ocean50x50W750H750.asset
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\Plane
+      Meshes\Ocean50x50W750H750.asset
+    projectPath: Assets\LowPolyWater_Pack\Plane Meshes\Ocean50x50W750H750.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\Plane Meshes\Ocean50x50W750H750.asset.meta
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\Plane
+      Meshes\Ocean50x50W750H750.asset.meta
+    projectPath: Assets\LowPolyWater_Pack\Plane Meshes\Ocean50x50W750H750.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\Scripts.meta
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\Scripts.meta
+    projectPath: Assets\LowPolyWater_Pack\Scripts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\Scripts\Editor.meta
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\Scripts\Editor.meta
+    projectPath: Assets\LowPolyWater_Pack\Scripts\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\Scripts\Editor\GeneratePlane.cs
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\Scripts\Editor\GeneratePlane.cs
+    projectPath: Assets\LowPolyWater_Pack\Scripts\Editor\GeneratePlane.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\Scripts\Editor\GeneratePlane.cs.meta
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\Scripts\Editor\GeneratePlane.cs.meta
+    projectPath: Assets\LowPolyWater_Pack\Scripts\Editor\GeneratePlane.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\Scripts\LowPolyWater.cs
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\Scripts\LowPolyWater.cs
+    projectPath: Assets\LowPolyWater_Pack\Scripts\LowPolyWater.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\Scripts\LowPolyWater.cs.meta
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\Scripts\LowPolyWater.cs.meta
+    projectPath: Assets\LowPolyWater_Pack\Scripts\LowPolyWater.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\Shaders.meta
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\Shaders.meta
+    projectPath: Assets\LowPolyWater_Pack\Shaders.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\Shaders\WaterShaded.shader
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\Shaders\WaterShaded.shader
+    projectPath: Assets\LowPolyWater_Pack\Shaders\WaterShaded.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\Shaders\WaterShaded.shader.meta
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\Shaders\WaterShaded.shader.meta
+    projectPath: Assets\LowPolyWater_Pack\Shaders\WaterShaded.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\Textures.meta
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\Textures.meta
+    projectPath: Assets\LowPolyWater_Pack\Textures.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\Textures\Foam.tga
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\Textures\Foam.tga
+    projectPath: Assets\LowPolyWater_Pack\Textures\Foam.tga
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Assets\LowPolyWater_Pack\Textures\Foam.tga.meta
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\LowPolyWater_Pack\Textures\Foam.tga.meta
+    projectPath: Assets\LowPolyWater_Pack\Textures\Foam.tga.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Fox Trail\Assets\Scenes\Main.unity
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Assets\Scenes\Main.unity
     projectPath: Assets\Scenes\Main.unity
@@ -32,11 +348,17 @@ MonoBehaviour:
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\00\002adfaf721f5b997b69a38945b854ce
     projectPath: Library\Artifacts\00\002adfaf721f5b997b69a38945b854ce
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\00\00d785f4347fdc8173e81bd8a46e5b03
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\00\00d785f4347fdc8173e81bd8a46e5b03
     projectPath: Library\Artifacts\00\00d785f4347fdc8173e81bd8a46e5b03
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Fox Trail\Library\Artifacts\04\0469ac1d743d5c21e981f38dfac43e3a
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\04\0469ac1d743d5c21e981f38dfac43e3a
+    projectPath: Library\Artifacts\04\0469ac1d743d5c21e981f38dfac43e3a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -44,23 +366,17 @@ MonoBehaviour:
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\06\06166113149991e1527c65e4a7ff537a
     projectPath: Library\Artifacts\06\06166113149991e1527c65e4a7ff537a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\0a\0a78f9c3137c3ea9d23785e8c57a60cc
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\0a\0a78f9c3137c3ea9d23785e8c57a60cc
     projectPath: Library\Artifacts\0a\0a78f9c3137c3ea9d23785e8c57a60cc
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\0b\0b75aa4e574abd70683d1756ada7093d
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\0b\0b75aa4e574abd70683d1756ada7093d
     projectPath: Library\Artifacts\0b\0b75aa4e574abd70683d1756ada7093d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Library\Artifacts\0e\0edb374c4a693beeb7f4ee81e8f27ffe
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\0e\0edb374c4a693beeb7f4ee81e8f27ffe
-    projectPath: Library\Artifacts\0e\0edb374c4a693beeb7f4ee81e8f27ffe
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -68,17 +384,23 @@ MonoBehaviour:
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\11\11594cbc55ab18c2662bbc293e5feca8
     projectPath: Library\Artifacts\11\11594cbc55ab18c2662bbc293e5feca8
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\11\11e50aa0073176f9b86b202dc4702601
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\11\11e50aa0073176f9b86b202dc4702601
     projectPath: Library\Artifacts\11\11e50aa0073176f9b86b202dc4702601
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\12\12bdc5ded70d7390b81f5a227d68f081
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\12\12bdc5ded70d7390b81f5a227d68f081
     projectPath: Library\Artifacts\12\12bdc5ded70d7390b81f5a227d68f081
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Fox Trail\Library\Artifacts\15\15ce614ad48c443509b406bfec70e491
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\15\15ce614ad48c443509b406bfec70e491
+    projectPath: Library\Artifacts\15\15ce614ad48c443509b406bfec70e491
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -86,53 +408,35 @@ MonoBehaviour:
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\18\18504429a7b747ae48d5178d410ae2c0
     projectPath: Library\Artifacts\18\18504429a7b747ae48d5178d410ae2c0
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\1c\1cb8815ac6b6c70d78b496821ca7bfb5
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\1c\1cb8815ac6b6c70d78b496821ca7bfb5
     projectPath: Library\Artifacts\1c\1cb8815ac6b6c70d78b496821ca7bfb5
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Fox Trail\Library\Artifacts\22\225539e5230f5c18f423b4448ec63d26
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\22\225539e5230f5c18f423b4448ec63d26
+    projectPath: Library\Artifacts\22\225539e5230f5c18f423b4448ec63d26
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Fox Trail\Library\Artifacts\1f\1f2a05380e9af51385e909829b19e33d
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\1f\1f2a05380e9af51385e909829b19e33d
-    projectPath: Library\Artifacts\1f\1f2a05380e9af51385e909829b19e33d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Fox Trail\Library\Artifacts\20\205cb8829715fd3c569671abb4522c47
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\20\205cb8829715fd3c569671abb4522c47
-    projectPath: Library\Artifacts\20\205cb8829715fd3c569671abb4522c47
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Fox Trail\Library\Artifacts\21\2178a8a0fa8308fcfa83c6c3cf779a0c
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\21\2178a8a0fa8308fcfa83c6c3cf779a0c
-    projectPath: Library\Artifacts\21\2178a8a0fa8308fcfa83c6c3cf779a0c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\23\23425bab1a6fc71bd04b34cde50369e2
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\23\23425bab1a6fc71bd04b34cde50369e2
     projectPath: Library\Artifacts\23\23425bab1a6fc71bd04b34cde50369e2
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\24\2432df071a2965f295703e5d544af581
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\24\2432df071a2965f295703e5d544af581
     projectPath: Library\Artifacts\24\2432df071a2965f295703e5d544af581
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\24\245fcad601bff7379f27666bae01b736
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\24\245fcad601bff7379f27666bae01b736
     projectPath: Library\Artifacts\24\245fcad601bff7379f27666bae01b736
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Library\Artifacts\26\26c6e208fe572e804afe60b1e131639e
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\26\26c6e208fe572e804afe60b1e131639e
-    projectPath: Library\Artifacts\26\26c6e208fe572e804afe60b1e131639e
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -140,101 +444,65 @@ MonoBehaviour:
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\28\28124f04e1260d256c6824f2309e768d
     projectPath: Library\Artifacts\28\28124f04e1260d256c6824f2309e768d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Library\Artifacts\28\28d0c7c1597b4cd9ed79087be1cba5fd
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\28\28d0c7c1597b4cd9ed79087be1cba5fd
-    projectPath: Library\Artifacts\28\28d0c7c1597b4cd9ed79087be1cba5fd
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\31\312ddff40f9e53257353e53f1aae35e7
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\31\312ddff40f9e53257353e53f1aae35e7
     projectPath: Library\Artifacts\31\312ddff40f9e53257353e53f1aae35e7
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Fox Trail\Library\Artifacts\39\39621515070de6195c700481fdc9b22c
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\39\39621515070de6195c700481fdc9b22c
+    projectPath: Library\Artifacts\39\39621515070de6195c700481fdc9b22c
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Fox Trail\Library\Artifacts\36\36431f5cf0f9fe5ebd5a34f892b535e7
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\36\36431f5cf0f9fe5ebd5a34f892b535e7
-    projectPath: Library\Artifacts\36\36431f5cf0f9fe5ebd5a34f892b535e7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Fox Trail\Library\Artifacts\3a\3abdfd38b253d5f60f751cc9bc49c7d5
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\3a\3abdfd38b253d5f60f751cc9bc49c7d5
-    projectPath: Library\Artifacts\3a\3abdfd38b253d5f60f751cc9bc49c7d5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\3a\3aec610ec38b097bc7138138bec759d5
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\3a\3aec610ec38b097bc7138138bec759d5
     projectPath: Library\Artifacts\3a\3aec610ec38b097bc7138138bec759d5
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\3d\3d10846334151da7d36f20bd959477bd
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\3d\3d10846334151da7d36f20bd959477bd
     projectPath: Library\Artifacts\3d\3d10846334151da7d36f20bd959477bd
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\40\40ff1153191b9a3b2ccaac7ed066ba03
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\40\40ff1153191b9a3b2ccaac7ed066ba03
     projectPath: Library\Artifacts\40\40ff1153191b9a3b2ccaac7ed066ba03
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\42\42c99375c03876db750dbce7c4a7cd22
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\42\42c99375c03876db750dbce7c4a7cd22
     projectPath: Library\Artifacts\42\42c99375c03876db750dbce7c4a7cd22
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\42\42e9f5b794e75191a8003791be2b0674
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\42\42e9f5b794e75191a8003791be2b0674
     projectPath: Library\Artifacts\42\42e9f5b794e75191a8003791be2b0674
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\43\433b83df381dd3b510bd942103b9eba6
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\43\433b83df381dd3b510bd942103b9eba6
     projectPath: Library\Artifacts\43\433b83df381dd3b510bd942103b9eba6
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\46\46cd0e7573e978cce69d757316052837
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\46\46cd0e7573e978cce69d757316052837
     projectPath: Library\Artifacts\46\46cd0e7573e978cce69d757316052837
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\49\490bf692614a3820ba5afdffa0984dfb
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\49\490bf692614a3820ba5afdffa0984dfb
     projectPath: Library\Artifacts\49\490bf692614a3820ba5afdffa0984dfb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Library\Artifacts\4a\4ae4b26040ed25d61568fc50074aa1b6
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\4a\4ae4b26040ed25d61568fc50074aa1b6
-    projectPath: Library\Artifacts\4a\4ae4b26040ed25d61568fc50074aa1b6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Fox Trail\Library\Artifacts\4b\4b02cbdac56b793c16e1e7501af12ac8
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\4b\4b02cbdac56b793c16e1e7501af12ac8
-    projectPath: Library\Artifacts\4b\4b02cbdac56b793c16e1e7501af12ac8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Fox Trail\Library\Artifacts\4d\4d788f9a913d124530fa0268c82f3419
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\4d\4d788f9a913d124530fa0268c82f3419
-    projectPath: Library\Artifacts\4d\4d788f9a913d124530fa0268c82f3419
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Fox Trail\Library\Artifacts\4d\4d7e41f0bf00aafab48ad54a15597ab0
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\4d\4d7e41f0bf00aafab48ad54a15597ab0
-    projectPath: Library\Artifacts\4d\4d7e41f0bf00aafab48ad54a15597ab0
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -242,53 +510,41 @@ MonoBehaviour:
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\4d\4db49fd3c751f6988b73727280edc09d
     projectPath: Library\Artifacts\4d\4db49fd3c751f6988b73727280edc09d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\4f\4f2dc9943859341c1d289fb1a97bce22
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\4f\4f2dc9943859341c1d289fb1a97bce22
     projectPath: Library\Artifacts\4f\4f2dc9943859341c1d289fb1a97bce22
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\53\531215e4b7848cafbf2b0b4bd920ea24
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\53\531215e4b7848cafbf2b0b4bd920ea24
     projectPath: Library\Artifacts\53\531215e4b7848cafbf2b0b4bd920ea24
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Fox Trail\Library\Artifacts\53\53ba52a4b21dc094947b9dc7bb14a8ce
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\53\53ba52a4b21dc094947b9dc7bb14a8ce
+    projectPath: Library\Artifacts\53\53ba52a4b21dc094947b9dc7bb14a8ce
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Fox Trail\Library\Artifacts\5d\5d181d267a0cd227338c9d7288db2d0f
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\5d\5d181d267a0cd227338c9d7288db2d0f
-    projectPath: Library\Artifacts\5d\5d181d267a0cd227338c9d7288db2d0f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Fox Trail\Library\Artifacts\5d\5d57c16fa493fd03b789a43d5ecab66d
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\5d\5d57c16fa493fd03b789a43d5ecab66d
-    projectPath: Library\Artifacts\5d\5d57c16fa493fd03b789a43d5ecab66d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\5e\5e16dd7e551f6b946318eba841a748c1
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\5e\5e16dd7e551f6b946318eba841a748c1
     projectPath: Library\Artifacts\5e\5e16dd7e551f6b946318eba841a748c1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\62\62a15c2f4a22d2eef0ec08f1ffc1efb1
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\62\62a15c2f4a22d2eef0ec08f1ffc1efb1
     projectPath: Library\Artifacts\62\62a15c2f4a22d2eef0ec08f1ffc1efb1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\63\636f60a5c7674c4a39482057613c8f28
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\63\636f60a5c7674c4a39482057613c8f28
     projectPath: Library\Artifacts\63\636f60a5c7674c4a39482057613c8f28
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Library\Artifacts\63\639c3c0fc83e783980f982013ad9bdee
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\63\639c3c0fc83e783980f982013ad9bdee
-    projectPath: Library\Artifacts\63\639c3c0fc83e783980f982013ad9bdee
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -296,65 +552,71 @@ MonoBehaviour:
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\68\6822723f33048bed63ae9a6fffe79e0f
     projectPath: Library\Artifacts\68\6822723f33048bed63ae9a6fffe79e0f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\68\68b41bbc4031d8ac592cb75cb6290bec
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\68\68b41bbc4031d8ac592cb75cb6290bec
     projectPath: Library\Artifacts\68\68b41bbc4031d8ac592cb75cb6290bec
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\69\69a317e4cf29d3ddfac8244be8257df1
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\69\69a317e4cf29d3ddfac8244be8257df1
     projectPath: Library\Artifacts\69\69a317e4cf29d3ddfac8244be8257df1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\6b\6b119947d7f2d397274c4abda2a15053
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\6b\6b119947d7f2d397274c4abda2a15053
     projectPath: Library\Artifacts\6b\6b119947d7f2d397274c4abda2a15053
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\6b\6be17ecdede18cee8aeaba05c9e90d23
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\6b\6be17ecdede18cee8aeaba05c9e90d23
     projectPath: Library\Artifacts\6b\6be17ecdede18cee8aeaba05c9e90d23
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\6f\6fab5259eb19f057437de2b4c3574cb0
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\6f\6fab5259eb19f057437de2b4c3574cb0
     projectPath: Library\Artifacts\6f\6fab5259eb19f057437de2b4c3574cb0
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\70\70667828aff5833f0a7021d430ef3304
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\70\70667828aff5833f0a7021d430ef3304
     projectPath: Library\Artifacts\70\70667828aff5833f0a7021d430ef3304
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\72\72b036c99a94a2d42f8b48786c747d49
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\72\72b036c99a94a2d42f8b48786c747d49
     projectPath: Library\Artifacts\72\72b036c99a94a2d42f8b48786c747d49
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\74\7443085c2b7648a937fc10cc5b941d37
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\74\7443085c2b7648a937fc10cc5b941d37
     projectPath: Library\Artifacts\74\7443085c2b7648a937fc10cc5b941d37
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\76\768ef9265209eeb9d4faa7607e0ab543
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\76\768ef9265209eeb9d4faa7607e0ab543
     projectPath: Library\Artifacts\76\768ef9265209eeb9d4faa7607e0ab543
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\7c\7c55a9396345219e9e3170f6963076e2
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\7c\7c55a9396345219e9e3170f6963076e2
     projectPath: Library\Artifacts\7c\7c55a9396345219e9e3170f6963076e2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Fox Trail\Library\Artifacts\7e\7ebb5838bed21e3dc891fec4bb87adcb
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\7e\7ebb5838bed21e3dc891fec4bb87adcb
+    projectPath: Library\Artifacts\7e\7ebb5838bed21e3dc891fec4bb87adcb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -362,29 +624,47 @@ MonoBehaviour:
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\82\82d33dfb4d361cba473a770768177f5a
     projectPath: Library\Artifacts\82\82d33dfb4d361cba473a770768177f5a
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Fox Trail\Library\Artifacts\8a\8aeecf97cd0b173806ae38420460670d
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\8a\8aeecf97cd0b173806ae38420460670d
+    projectPath: Library\Artifacts\8a\8aeecf97cd0b173806ae38420460670d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Library\Artifacts\8b\8bd9efcac9b32c17b118caa27576e338
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\8b\8bd9efcac9b32c17b118caa27576e338
+    projectPath: Library\Artifacts\8b\8bd9efcac9b32c17b118caa27576e338
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Fox Trail\Library\Artifacts\8c\8c5c4dc125c1f24e04d4dd57480c09dc
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\8c\8c5c4dc125c1f24e04d4dd57480c09dc
     projectPath: Library\Artifacts\8c\8c5c4dc125c1f24e04d4dd57480c09dc
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\8d\8da4db0a611c02e167ba4f62d3d69a33
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\8d\8da4db0a611c02e167ba4f62d3d69a33
     projectPath: Library\Artifacts\8d\8da4db0a611c02e167ba4f62d3d69a33
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\90\90d3064d287bd6448f8788da640e8e32
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\90\90d3064d287bd6448f8788da640e8e32
     projectPath: Library\Artifacts\90\90d3064d287bd6448f8788da640e8e32
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\91\918e868d40e2ba133531ca75c7f9bc38
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\91\918e868d40e2ba133531ca75c7f9bc38
     projectPath: Library\Artifacts\91\918e868d40e2ba133531ca75c7f9bc38
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Fox Trail\Library\Artifacts\93\93cfff1f7e8302de58bb0e9503847575
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\93\93cfff1f7e8302de58bb0e9503847575
+    projectPath: Library\Artifacts\93\93cfff1f7e8302de58bb0e9503847575
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -392,23 +672,17 @@ MonoBehaviour:
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\94\94695586b4ee440663a767933ab3337b
     projectPath: Library\Artifacts\94\94695586b4ee440663a767933ab3337b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\99\990fefde1b887222e4ccb72661da492e
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\99\990fefde1b887222e4ccb72661da492e
     projectPath: Library\Artifacts\99\990fefde1b887222e4ccb72661da492e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\9a\9aa18d81ab74d8d9bef2591b8b9c9aa3
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\9a\9aa18d81ab74d8d9bef2591b8b9c9aa3
     projectPath: Library\Artifacts\9a\9aa18d81ab74d8d9bef2591b8b9c9aa3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Library\Artifacts\9a\9af6e04cd6465f4be384d4901fe99ae9
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\9a\9af6e04cd6465f4be384d4901fe99ae9
-    projectPath: Library\Artifacts\9a\9af6e04cd6465f4be384d4901fe99ae9
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -416,35 +690,23 @@ MonoBehaviour:
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\9f\9f782f51aa7b6f6e24af0a69edf9c13c
     projectPath: Library\Artifacts\9f\9f782f51aa7b6f6e24af0a69edf9c13c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\a0\a09f48532d13be52708c191e153b6744
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\a0\a09f48532d13be52708c191e153b6744
     projectPath: Library\Artifacts\a0\a09f48532d13be52708c191e153b6744
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Fox Trail\Library\Artifacts\a3\a35461d8c092a94c23d8d5570d3da71c
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\a3\a35461d8c092a94c23d8d5570d3da71c
+    projectPath: Library\Artifacts\a3\a35461d8c092a94c23d8d5570d3da71c
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Fox Trail\Library\Artifacts\a0\a0b467f1babbd0eb3f05cf14e7555edd
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\a0\a0b467f1babbd0eb3f05cf14e7555edd
-    projectPath: Library\Artifacts\a0\a0b467f1babbd0eb3f05cf14e7555edd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Fox Trail\Library\Artifacts\a4\a40a4fbc3fc5fce5358d1378b82b5b24
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\a4\a40a4fbc3fc5fce5358d1378b82b5b24
-    projectPath: Library\Artifacts\a4\a40a4fbc3fc5fce5358d1378b82b5b24
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\a4\a4662114b3ac84179e993654c70b1e69
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\a4\a4662114b3ac84179e993654c70b1e69
     projectPath: Library\Artifacts\a4\a4662114b3ac84179e993654c70b1e69
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Library\Artifacts\a5\a5f1af8808850243d542ade74450d57a
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\a5\a5f1af8808850243d542ade74450d57a
-    projectPath: Library\Artifacts\a5\a5f1af8808850243d542ade74450d57a
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -452,17 +714,23 @@ MonoBehaviour:
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\a6\a641e0b502e95ab4ee0737515b6c0ec8
     projectPath: Library\Artifacts\a6\a641e0b502e95ab4ee0737515b6c0ec8
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\a9\a94d15f455db676a07743728a01bfcf1
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\a9\a94d15f455db676a07743728a01bfcf1
     projectPath: Library\Artifacts\a9\a94d15f455db676a07743728a01bfcf1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\a9\a985cf7c74aabba7afecb678890cd97e
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\a9\a985cf7c74aabba7afecb678890cd97e
     projectPath: Library\Artifacts\a9\a985cf7c74aabba7afecb678890cd97e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Fox Trail\Library\Artifacts\aa\aaa3fed7ae5c6d84d7dde34838e3e402
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\aa\aaa3fed7ae5c6d84d7dde34838e3e402
+    projectPath: Library\Artifacts\aa\aaa3fed7ae5c6d84d7dde34838e3e402
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -470,17 +738,29 @@ MonoBehaviour:
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\ae\ae479e7b3043461f4ee1f325edc41ece
     projectPath: Library\Artifacts\ae\ae479e7b3043461f4ee1f325edc41ece
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\ae\ae8038c95513b03c09d990bdf34956a9
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\ae\ae8038c95513b03c09d990bdf34956a9
     projectPath: Library\Artifacts\ae\ae8038c95513b03c09d990bdf34956a9
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\ae\ae9381c118854c8547d3c3586c0651c6
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\ae\ae9381c118854c8547d3c3586c0651c6
     projectPath: Library\Artifacts\ae\ae9381c118854c8547d3c3586c0651c6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Fox Trail\Library\Artifacts\ae\aec29b1a7f4406a901c07f341488ef4d
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\ae\aec29b1a7f4406a901c07f341488ef4d
+    projectPath: Library\Artifacts\ae\aec29b1a7f4406a901c07f341488ef4d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Library\Artifacts\af\af1b9fed59fe2fd27155f53b955abc73
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\af\af1b9fed59fe2fd27155f53b955abc73
+    projectPath: Library\Artifacts\af\af1b9fed59fe2fd27155f53b955abc73
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -488,77 +768,83 @@ MonoBehaviour:
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\b0\b061190492ec21980835786fd11d9ef5
     projectPath: Library\Artifacts\b0\b061190492ec21980835786fd11d9ef5
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\b3\b3e5804a6ef6e1c862d18624d27f1253
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\b3\b3e5804a6ef6e1c862d18624d27f1253
     projectPath: Library\Artifacts\b3\b3e5804a6ef6e1c862d18624d27f1253
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\b4\b49a9ea5d93f0685b1f424b3bb5f7482
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\b4\b49a9ea5d93f0685b1f424b3bb5f7482
     projectPath: Library\Artifacts\b4\b49a9ea5d93f0685b1f424b3bb5f7482
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\b6\b6a5f48aa69dda63e19cb996ae243426
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\b6\b6a5f48aa69dda63e19cb996ae243426
     projectPath: Library\Artifacts\b6\b6a5f48aa69dda63e19cb996ae243426
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\b7\b7440e9c6cec7a8bdb634f155f27c14c
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\b7\b7440e9c6cec7a8bdb634f155f27c14c
     projectPath: Library\Artifacts\b7\b7440e9c6cec7a8bdb634f155f27c14c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\b9\b91064f3205ff184f892bdc7411c1c12
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\b9\b91064f3205ff184f892bdc7411c1c12
     projectPath: Library\Artifacts\b9\b91064f3205ff184f892bdc7411c1c12
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Library\Artifacts\ba\ba2a3aa7e9ad9db6d4d40dc8239f8209
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\ba\ba2a3aa7e9ad9db6d4d40dc8239f8209
-    projectPath: Library\Artifacts\ba\ba2a3aa7e9ad9db6d4d40dc8239f8209
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
+  - path: Fox Trail\Library\Artifacts\ba\ba2db7aa49c6d9656963849ad3b87d5d
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\ba\ba2db7aa49c6d9656963849ad3b87d5d
+    projectPath: Library\Artifacts\ba\ba2db7aa49c6d9656963849ad3b87d5d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Fox Trail\Library\Artifacts\ba\bab182881e024a8cc32c06fd6ede64ed
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\ba\bab182881e024a8cc32c06fd6ede64ed
     projectPath: Library\Artifacts\ba\bab182881e024a8cc32c06fd6ede64ed
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\bb\bbf92f9172237b86d56c6fc5a7ddc13e
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\bb\bbf92f9172237b86d56c6fc5a7ddc13e
     projectPath: Library\Artifacts\bb\bbf92f9172237b86d56c6fc5a7ddc13e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\be\be21ebd526ee69c9732ee000778f7e48
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\be\be21ebd526ee69c9732ee000778f7e48
     projectPath: Library\Artifacts\be\be21ebd526ee69c9732ee000778f7e48
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\c5\c5d524e0b6106bb3610b79cdb93ccaf6
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\c5\c5d524e0b6106bb3610b79cdb93ccaf6
     projectPath: Library\Artifacts\c5\c5d524e0b6106bb3610b79cdb93ccaf6
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\c6\c61ffcac8fa65a5b52fe85f543f630d9
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\c6\c61ffcac8fa65a5b52fe85f543f630d9
     projectPath: Library\Artifacts\c6\c61ffcac8fa65a5b52fe85f543f630d9
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\ce\cec246b12091a5c5a0bed315535fd756
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\ce\cec246b12091a5c5a0bed315535fd756
     projectPath: Library\Artifacts\ce\cec246b12091a5c5a0bed315535fd756
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Fox Trail\Library\Artifacts\cf\cf74e41fbd8a4102d46a16ae5420513f
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\cf\cf74e41fbd8a4102d46a16ae5420513f
+    projectPath: Library\Artifacts\cf\cf74e41fbd8a4102d46a16ae5420513f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -566,41 +852,35 @@ MonoBehaviour:
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\d0\d04fde584008465f9d742654f01ee932
     projectPath: Library\Artifacts\d0\d04fde584008465f9d742654f01ee932
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\d0\d0ef43ffa75e6ca1fcca1bfb06c6b20c
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\d0\d0ef43ffa75e6ca1fcca1bfb06c6b20c
     projectPath: Library\Artifacts\d0\d0ef43ffa75e6ca1fcca1bfb06c6b20c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\d2\d2a1f346791adfa774fcadb1d11169c5
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\d2\d2a1f346791adfa774fcadb1d11169c5
     projectPath: Library\Artifacts\d2\d2a1f346791adfa774fcadb1d11169c5
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\d4\d42e83995bb7d6d416c6099dbcbf4e19
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\d4\d42e83995bb7d6d416c6099dbcbf4e19
     projectPath: Library\Artifacts\d4\d42e83995bb7d6d416c6099dbcbf4e19
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\d4\d44f3a80336a2624b3d7b6ee51d286a2
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\d4\d44f3a80336a2624b3d7b6ee51d286a2
     projectPath: Library\Artifacts\d4\d44f3a80336a2624b3d7b6ee51d286a2
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\d5\d5131f1fa3c99f4ce9a5d3b59ff0d806
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\d5\d5131f1fa3c99f4ce9a5d3b59ff0d806
     projectPath: Library\Artifacts\d5\d5131f1fa3c99f4ce9a5d3b59ff0d806
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Library\Artifacts\d7\d73117dc41cbdcf7443c6cab470e0f1e
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\d7\d73117dc41cbdcf7443c6cab470e0f1e
-    projectPath: Library\Artifacts\d7\d73117dc41cbdcf7443c6cab470e0f1e
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -608,47 +888,41 @@ MonoBehaviour:
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\d7\d74ac50ab14b3f50033ea8d9ef7c84ef
     projectPath: Library\Artifacts\d7\d74ac50ab14b3f50033ea8d9ef7c84ef
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Fox Trail\Library\Artifacts\d9\d940e43ad2ffacb1967f340908014381
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\d9\d940e43ad2ffacb1967f340908014381
+    projectPath: Library\Artifacts\d9\d940e43ad2ffacb1967f340908014381
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Fox Trail\Library\Artifacts\d7\d7985144b4ee88993a9b2c42fd6294e9
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\d7\d7985144b4ee88993a9b2c42fd6294e9
-    projectPath: Library\Artifacts\d7\d7985144b4ee88993a9b2c42fd6294e9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Fox Trail\Library\Artifacts\d9\d971725317caa9ace248a3e79042d812
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\d9\d971725317caa9ace248a3e79042d812
-    projectPath: Library\Artifacts\d9\d971725317caa9ace248a3e79042d812
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\da\da68339fa73b35a649dc3e3c3d1a7edf
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\da\da68339fa73b35a649dc3e3c3d1a7edf
     projectPath: Library\Artifacts\da\da68339fa73b35a649dc3e3c3d1a7edf
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Fox Trail\Library\Artifacts\e1\e117efedc9e433a59fbe271c5a243c70
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\e1\e117efedc9e433a59fbe271c5a243c70
+    projectPath: Library\Artifacts\e1\e117efedc9e433a59fbe271c5a243c70
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Fox Trail\Library\Artifacts\de\dee82aa2c674e4d1aae0308d4983b30d
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\de\dee82aa2c674e4d1aae0308d4983b30d
-    projectPath: Library\Artifacts\de\dee82aa2c674e4d1aae0308d4983b30d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Fox Trail\Library\Artifacts\e5\e540e0c26cb503e491b6264e3bc044f4
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\e5\e540e0c26cb503e491b6264e3bc044f4
-    projectPath: Library\Artifacts\e5\e540e0c26cb503e491b6264e3bc044f4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\e5\e5949ff9bcdf4a7f167aa26ec74304a1
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\e5\e5949ff9bcdf4a7f167aa26ec74304a1
     projectPath: Library\Artifacts\e5\e5949ff9bcdf4a7f167aa26ec74304a1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\e5\e59bb7713e47581f7970059734236b40
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\e5\e59bb7713e47581f7970059734236b40
     projectPath: Library\Artifacts\e5\e59bb7713e47581f7970059734236b40
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Fox Trail\Library\Artifacts\e6\e6272fb701c53c3a0f1194d20fe7bd75
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\e6\e6272fb701c53c3a0f1194d20fe7bd75
+    projectPath: Library\Artifacts\e6\e6272fb701c53c3a0f1194d20fe7bd75
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -656,29 +930,23 @@ MonoBehaviour:
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\e6\e64be2c0e0ad2f45c961cc9ae145728f
     projectPath: Library\Artifacts\e6\e64be2c0e0ad2f45c961cc9ae145728f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\e8\e89237e5b5b43c1a61b768204d31928f
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\e8\e89237e5b5b43c1a61b768204d31928f
     projectPath: Library\Artifacts\e8\e89237e5b5b43c1a61b768204d31928f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\ec\ec1f5de1742cb43d8b073fd944df4c88
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\ec\ec1f5de1742cb43d8b073fd944df4c88
     projectPath: Library\Artifacts\ec\ec1f5de1742cb43d8b073fd944df4c88
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\ef\efdb7608bb6522d23db40c24dbd056f6
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\ef\efdb7608bb6522d23db40c24dbd056f6
     projectPath: Library\Artifacts\ef\efdb7608bb6522d23db40c24dbd056f6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Library\Artifacts\f0\f01559366889688f0209ba0040f78b99
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\f0\f01559366889688f0209ba0040f78b99
-    projectPath: Library\Artifacts\f0\f01559366889688f0209ba0040f78b99
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -686,29 +954,23 @@ MonoBehaviour:
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\f0\f096c1c1c1bc60af96257580de7050c3
     projectPath: Library\Artifacts\f0\f096c1c1c1bc60af96257580de7050c3
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\f0\f0bdf1580a072a70b312fb8bf68a20f2
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\f0\f0bdf1580a072a70b312fb8bf68a20f2
     projectPath: Library\Artifacts\f0\f0bdf1580a072a70b312fb8bf68a20f2
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\f0\f0c4107fabb83966d8e63c187084a453
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\f0\f0c4107fabb83966d8e63c187084a453
     projectPath: Library\Artifacts\f0\f0c4107fabb83966d8e63c187084a453
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\f0\f0f9062264cb240e701d98eb10acf2a0
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\f0\f0f9062264cb240e701d98eb10acf2a0
     projectPath: Library\Artifacts\f0\f0f9062264cb240e701d98eb10acf2a0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Library\Artifacts\f7\f7c3dccb87fe3bce1546fba2b4a43e36
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\f7\f7c3dccb87fe3bce1546fba2b4a43e36
-    projectPath: Library\Artifacts\f7\f7c3dccb87fe3bce1546fba2b4a43e36
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -716,29 +978,29 @@ MonoBehaviour:
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\fa\fa98588bae433ccbe176b1e086af744f
     projectPath: Library\Artifacts\fa\fa98588bae433ccbe176b1e086af744f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\fc\fc45a61e9423f21937cc25231ed1c5c1
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\fc\fc45a61e9423f21937cc25231ed1c5c1
     projectPath: Library\Artifacts\fc\fc45a61e9423f21937cc25231ed1c5c1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\fc\fce33e16b9f2c0ecda6a040939820121
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\fc\fce33e16b9f2c0ecda6a040939820121
     projectPath: Library\Artifacts\fc\fce33e16b9f2c0ecda6a040939820121
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Fox Trail\Library\Artifacts\fd\fd9b9d06dec2e39cd57f64c30f0a56bc
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\fd\fd9b9d06dec2e39cd57f64c30f0a56bc
     projectPath: Library\Artifacts\fd\fd9b9d06dec2e39cd57f64c30f0a56bc
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Library\Artifacts\fd\fd9f8cac0cd365749e2c2d8ee7d9a820
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\fd\fd9f8cac0cd365749e2c2d8ee7d9a820
-    projectPath: Library\Artifacts\fd\fd9f8cac0cd365749e2c2d8ee7d9a820
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Fox Trail\Library\Artifacts\ff\ff0b3197e1868a53ffdb085a44fb4536
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\Artifacts\ff\ff0b3197e1868a53ffdb085a44fb4536
+    projectPath: Library\Artifacts\ff\ff0b3197e1868a53ffdb085a44fb4536
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -778,171 +1040,27 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Fox Trail\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+  - path: Fox Trail\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Fox Trail\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+  - path: Fox Trail\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Fox Trail\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+  - path: Fox Trail\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Fox Trail\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Fox Trail\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Fox Trail\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Fox Trail\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Fox Trail\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Fox Trail\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Fox Trail\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Fox Trail\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Fox Trail\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Fox Trail\Library\ScriptAssemblies\Unity.Timeline.dll
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ScriptAssemblies\Unity.Timeline.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Fox Trail\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Fox Trail\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Fox Trail\Library\ScriptAssemblies\Unity.Timeline.pdb
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ScriptAssemblies\Unity.Timeline.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Fox Trail\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Fox Trail\Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Fox Trail\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Fox Trail\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Fox Trail\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Fox Trail\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Fox Trail\Library\ScriptAssemblies\UnityEditor.UI.dll
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ScriptAssemblies\UnityEditor.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Fox Trail\Library\ScriptAssemblies\UnityEditor.UI.pdb
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ScriptAssemblies\UnityEditor.UI.pdb
-    projectPath: Library\ScriptAssemblies\UnityEditor.UI.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Fox Trail\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Fox Trail\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Fox Trail\Library\ScriptAssemblies\UnityEngine.UI.dll
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ScriptAssemblies\UnityEngine.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Fox Trail\Library\ScriptAssemblies\UnityEngine.UI.pdb
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ScriptAssemblies\UnityEngine.UI.pdb
-    projectPath: Library\ScriptAssemblies\UnityEngine.UI.pdb
+  - path: Fox Trail\Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -958,12 +1076,84 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Fox Trail\Library\ShaderCache\0\00ae6dca74626efb8355c55d3ec15373.bin
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ShaderCache\0\00ae6dca74626efb8355c55d3ec15373.bin
+    projectPath: Library\ShaderCache\0\00ae6dca74626efb8355c55d3ec15373.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Library\ShaderCache\1\10869f88b8fdb1ef8194b4b665aa367e.bin
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ShaderCache\1\10869f88b8fdb1ef8194b4b665aa367e.bin
+    projectPath: Library\ShaderCache\1\10869f88b8fdb1ef8194b4b665aa367e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Library\ShaderCache\1\1ad992fb56ad07d8bacabc36f4fc2b3a.bin
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ShaderCache\1\1ad992fb56ad07d8bacabc36f4fc2b3a.bin
+    projectPath: Library\ShaderCache\1\1ad992fb56ad07d8bacabc36f4fc2b3a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Library\ShaderCache\2\2800fb8381787681e491b6a1f683ea9e.bin
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ShaderCache\2\2800fb8381787681e491b6a1f683ea9e.bin
+    projectPath: Library\ShaderCache\2\2800fb8381787681e491b6a1f683ea9e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Library\ShaderCache\3\335c2126ba068ca24c570c75e54d7359.bin
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ShaderCache\3\335c2126ba068ca24c570c75e54d7359.bin
+    projectPath: Library\ShaderCache\3\335c2126ba068ca24c570c75e54d7359.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Library\ShaderCache\5\5905e679748f9066396f3ca72f6a2ed5.bin
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ShaderCache\5\5905e679748f9066396f3ca72f6a2ed5.bin
+    projectPath: Library\ShaderCache\5\5905e679748f9066396f3ca72f6a2ed5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Library\ShaderCache\6\6324a93b259b575238e988c1f8002d17.bin
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ShaderCache\6\6324a93b259b575238e988c1f8002d17.bin
+    projectPath: Library\ShaderCache\6\6324a93b259b575238e988c1f8002d17.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Library\ShaderCache\6\6836462def22c645d169de81f22c5e01.bin
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ShaderCache\6\6836462def22c645d169de81f22c5e01.bin
+    projectPath: Library\ShaderCache\6\6836462def22c645d169de81f22c5e01.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Library\ShaderCache\d\d2c9fc0d0940ed738524628e342d34d4.bin
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ShaderCache\d\d2c9fc0d0940ed738524628e342d34d4.bin
+    projectPath: Library\ShaderCache\d\d2c9fc0d0940ed738524628e342d34d4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Library\ShaderCache\d\d68125745d8ac35094a515c8e034cd61.bin
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ShaderCache\d\d68125745d8ac35094a515c8e034cd61.bin
+    projectPath: Library\ShaderCache\d\d68125745d8ac35094a515c8e034cd61.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Fox Trail\Library\ShaderCache\e\e529dd210319d83b6e386b31324734aa.bin
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ShaderCache\e\e529dd210319d83b6e386b31324734aa.bin
+    projectPath: Library\ShaderCache\e\e529dd210319d83b6e386b31324734aa.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Fox Trail\Library\ShaderCache\EditorEncounteredVariants
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ShaderCache\EditorEncounteredVariants
     projectPath: Library\ShaderCache\EditorEncounteredVariants
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Fox Trail\Library\ShaderCache\f\f792efd5f4a7ecd5c1781585d2173ff0.bin
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\ShaderCache\f\f792efd5f4a7ecd5c1781585d2173ff0.bin
+    projectPath: Library\ShaderCache\f\f792efd5f4a7ecd5c1781585d2173ff0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Fox Trail\Library\SourceAssetDB
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
@@ -982,12 +1172,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Fox Trail\Logs\ApiUpdaterCheck.txt
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Logs\ApiUpdaterCheck.txt
-    projectPath: Logs\ApiUpdaterCheck.txt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Fox Trail\Logs\AssetImportWorker0.log
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Logs\AssetImportWorker0.log
     projectPath: Logs\AssetImportWorker0.log
@@ -998,8 +1182,8 @@ MonoBehaviour:
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Logs\AssetImportWorker0-prev.log
     projectPath: Logs\AssetImportWorker0-prev.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Fox Trail\Logs\shadercompiler-AssetImportWorker0.log
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Logs\shadercompiler-AssetImportWorker0.log
     projectPath: Logs\shadercompiler-AssetImportWorker0.log
@@ -1102,9 +1286,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Fox Trail\Temp\ApiUpdater_CheckMovedFromb068aeede38eba84ba76d61ae3cec076
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\ApiUpdater_CheckMovedFromb068aeede38eba84ba76d61ae3cec076
-    projectPath: Temp\ApiUpdater_CheckMovedFromb068aeede38eba84ba76d61ae3cec076
+  - path: Fox Trail\Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1120,99 +1304,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Fox Trail\Temp\Assembly-CSharp-Editor-firstpass.dll.hash
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\Assembly-CSharp-Editor-firstpass.dll.hash
-    projectPath: Temp\Assembly-CSharp-Editor-firstpass.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Fox Trail\Temp\CompilationLog.txt
     fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\CompilationLog.txt
     projectPath: Temp\CompilationLog.txt
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Fox Trail\Temp\StylizedWaterForURP.dll.hash
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\StylizedWaterForURP.dll.hash
-    projectPath: Temp\StylizedWaterForURP.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\Unity.CollabProxy.Editor.dll.hash
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\Unity.CollabProxy.Editor.dll.hash
-    projectPath: Temp\Unity.CollabProxy.Editor.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\Unity.PlasticSCM.Editor.dll.hash
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\Unity.PlasticSCM.Editor.dll.hash
-    projectPath: Temp\Unity.PlasticSCM.Editor.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\Unity.Rider.Editor.dll.hash
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\Unity.Rider.Editor.dll.hash
-    projectPath: Temp\Unity.Rider.Editor.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\Unity.TextMeshPro.dll.hash
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\Unity.TextMeshPro.dll.hash
-    projectPath: Temp\Unity.TextMeshPro.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\Unity.TextMeshPro.Editor.dll.hash
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\Unity.TextMeshPro.Editor.dll.hash
-    projectPath: Temp\Unity.TextMeshPro.Editor.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\Unity.Timeline.dll.hash
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\Unity.Timeline.dll.hash
-    projectPath: Temp\Unity.Timeline.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\Unity.Timeline.Editor.dll.hash
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\Unity.Timeline.Editor.dll.hash
-    projectPath: Temp\Unity.Timeline.Editor.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\Unity.VisualStudio.Editor.dll.hash
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\Unity.VisualStudio.Editor.dll.hash
-    projectPath: Temp\Unity.VisualStudio.Editor.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\Unity.VSCode.Editor.dll.hash
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\Unity.VSCode.Editor.dll.hash
-    projectPath: Temp\Unity.VSCode.Editor.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\UnityEditor.TestRunner.dll.hash
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\UnityEditor.TestRunner.dll.hash
-    projectPath: Temp\UnityEditor.TestRunner.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\UnityEditor.UI.dll.hash
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\UnityEditor.UI.dll.hash
-    projectPath: Temp\UnityEditor.UI.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\UnityEngine.TestRunner.dll.hash
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\UnityEngine.TestRunner.dll.hash
-    projectPath: Temp\UnityEngine.TestRunner.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\UnityEngine.UI.dll.hash
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\UnityEngine.UI.dll.hash
-    projectPath: Temp\UnityEngine.UI.dll.hash
+  - path: Fox Trail\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    projectPath: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1222,189 +1322,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Fox Trail\Temp\UnityTempFile-01a5a60bba8ab9e498c726cbd028ffa8
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\UnityTempFile-01a5a60bba8ab9e498c726cbd028ffa8
-    projectPath: Temp\UnityTempFile-01a5a60bba8ab9e498c726cbd028ffa8
+  - path: Fox Trail\Temp\UnityTempFile-5bd7364235edc4f4c8b3ee7831abdd93
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\UnityTempFile-5bd7364235edc4f4c8b3ee7831abdd93
+    projectPath: Temp\UnityTempFile-5bd7364235edc4f4c8b3ee7831abdd93
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Fox Trail\Temp\UnityTempFile-13dc43043de0f9d43817b993ffa1d363
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\UnityTempFile-13dc43043de0f9d43817b993ffa1d363
-    projectPath: Temp\UnityTempFile-13dc43043de0f9d43817b993ffa1d363
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\UnityTempFile-1857f6411d0d2e24d8d362ed3cbd42eb
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\UnityTempFile-1857f6411d0d2e24d8d362ed3cbd42eb
-    projectPath: Temp\UnityTempFile-1857f6411d0d2e24d8d362ed3cbd42eb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\UnityTempFile-1a78a00ad0f7fff49b8728f7d8c63d91
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\UnityTempFile-1a78a00ad0f7fff49b8728f7d8c63d91
-    projectPath: Temp\UnityTempFile-1a78a00ad0f7fff49b8728f7d8c63d91
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\UnityTempFile-2c2c676798bf3364c8b15db08cb0f4fe
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\UnityTempFile-2c2c676798bf3364c8b15db08cb0f4fe
-    projectPath: Temp\UnityTempFile-2c2c676798bf3364c8b15db08cb0f4fe
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\UnityTempFile-2d347f737370f7649aa4e2ceb2f88743
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\UnityTempFile-2d347f737370f7649aa4e2ceb2f88743
-    projectPath: Temp\UnityTempFile-2d347f737370f7649aa4e2ceb2f88743
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\UnityTempFile-32f24b6659b890b42be11b6b80fc4bdf
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\UnityTempFile-32f24b6659b890b42be11b6b80fc4bdf
-    projectPath: Temp\UnityTempFile-32f24b6659b890b42be11b6b80fc4bdf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\UnityTempFile-3af017c7c91a3f04c80ef1c96e09c806
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\UnityTempFile-3af017c7c91a3f04c80ef1c96e09c806
-    projectPath: Temp\UnityTempFile-3af017c7c91a3f04c80ef1c96e09c806
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\UnityTempFile-57e1fd4b9ac85a64db1038901cf92aa7
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\UnityTempFile-57e1fd4b9ac85a64db1038901cf92aa7
-    projectPath: Temp\UnityTempFile-57e1fd4b9ac85a64db1038901cf92aa7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\UnityTempFile-5976cfc9dc224524c98e39ce3901b023
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\UnityTempFile-5976cfc9dc224524c98e39ce3901b023
-    projectPath: Temp\UnityTempFile-5976cfc9dc224524c98e39ce3901b023
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\UnityTempFile-5aa9fbbd90cac3d499c1a589547c87b4
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\UnityTempFile-5aa9fbbd90cac3d499c1a589547c87b4
-    projectPath: Temp\UnityTempFile-5aa9fbbd90cac3d499c1a589547c87b4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\UnityTempFile-6331642474c6d28488bbdae9ca7279a9
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\UnityTempFile-6331642474c6d28488bbdae9ca7279a9
-    projectPath: Temp\UnityTempFile-6331642474c6d28488bbdae9ca7279a9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\UnityTempFile-66823fea07e4ef246afa14e2bdd519ae
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\UnityTempFile-66823fea07e4ef246afa14e2bdd519ae
-    projectPath: Temp\UnityTempFile-66823fea07e4ef246afa14e2bdd519ae
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\UnityTempFile-6aecad5776a09fc44b217ecf55d7afee
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\UnityTempFile-6aecad5776a09fc44b217ecf55d7afee
-    projectPath: Temp\UnityTempFile-6aecad5776a09fc44b217ecf55d7afee
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\UnityTempFile-71f6d279b37fbb44a8a2e858046c8fcc
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\UnityTempFile-71f6d279b37fbb44a8a2e858046c8fcc
-    projectPath: Temp\UnityTempFile-71f6d279b37fbb44a8a2e858046c8fcc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\UnityTempFile-7c86c731e639e7a4487e7259b721414b
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\UnityTempFile-7c86c731e639e7a4487e7259b721414b
-    projectPath: Temp\UnityTempFile-7c86c731e639e7a4487e7259b721414b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\UnityTempFile-7dd399a81b437844b9d7d24c0f3719b0
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\UnityTempFile-7dd399a81b437844b9d7d24c0f3719b0
-    projectPath: Temp\UnityTempFile-7dd399a81b437844b9d7d24c0f3719b0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\UnityTempFile-81ede89e9a2c93b47b6469dd84340348
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\UnityTempFile-81ede89e9a2c93b47b6469dd84340348
-    projectPath: Temp\UnityTempFile-81ede89e9a2c93b47b6469dd84340348
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\UnityTempFile-83e1c49d0bd614046b1abc0bc1df60a8
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\UnityTempFile-83e1c49d0bd614046b1abc0bc1df60a8
-    projectPath: Temp\UnityTempFile-83e1c49d0bd614046b1abc0bc1df60a8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\UnityTempFile-8c1dcf6c7e00f154f940b9b2dff14ec0
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\UnityTempFile-8c1dcf6c7e00f154f940b9b2dff14ec0
-    projectPath: Temp\UnityTempFile-8c1dcf6c7e00f154f940b9b2dff14ec0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\UnityTempFile-9349c1e8db207a54ca9d5bc11a645dc1
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\UnityTempFile-9349c1e8db207a54ca9d5bc11a645dc1
-    projectPath: Temp\UnityTempFile-9349c1e8db207a54ca9d5bc11a645dc1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\UnityTempFile-98df99c6b2c7e004b8f281c593e166fa
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\UnityTempFile-98df99c6b2c7e004b8f281c593e166fa
-    projectPath: Temp\UnityTempFile-98df99c6b2c7e004b8f281c593e166fa
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\UnityTempFile-a398d6e78e524e341b95e4de163f8886
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\UnityTempFile-a398d6e78e524e341b95e4de163f8886
-    projectPath: Temp\UnityTempFile-a398d6e78e524e341b95e4de163f8886
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\UnityTempFile-acb3c4b242048e74e8c2f6a06d950dff
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\UnityTempFile-acb3c4b242048e74e8c2f6a06d950dff
-    projectPath: Temp\UnityTempFile-acb3c4b242048e74e8c2f6a06d950dff
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\UnityTempFile-aed7f23e73ec33f48bcb589ab9bccf50
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\UnityTempFile-aed7f23e73ec33f48bcb589ab9bccf50
-    projectPath: Temp\UnityTempFile-aed7f23e73ec33f48bcb589ab9bccf50
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\UnityTempFile-c9e77a9e941bd1c4ba3e64dc4bdcb19d
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\UnityTempFile-c9e77a9e941bd1c4ba3e64dc4bdcb19d
-    projectPath: Temp\UnityTempFile-c9e77a9e941bd1c4ba3e64dc4bdcb19d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\UnityTempFile-cda8e79d15c595d45a6ab48ef2490338
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\UnityTempFile-cda8e79d15c595d45a6ab48ef2490338
-    projectPath: Temp\UnityTempFile-cda8e79d15c595d45a6ab48ef2490338
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\UnityTempFile-da618063d6a4cc444b0d771a5eeea7bc
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\UnityTempFile-da618063d6a4cc444b0d771a5eeea7bc
-    projectPath: Temp\UnityTempFile-da618063d6a4cc444b0d771a5eeea7bc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\UnityTempFile-dd59e898041776f4d8e345ba6e9fad14
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\UnityTempFile-dd59e898041776f4d8e345ba6e9fad14
-    projectPath: Temp\UnityTempFile-dd59e898041776f4d8e345ba6e9fad14
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\UnityTempFile-e68bfc94d11827845a45b8742bd83284
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\UnityTempFile-e68bfc94d11827845a45b8742bd83284
-    projectPath: Temp\UnityTempFile-e68bfc94d11827845a45b8742bd83284
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Fox Trail\Temp\UnityTempFile-ead572d4eff559849b9109f776baa5de
-    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\UnityTempFile-ead572d4eff559849b9109f776baa5de
-    projectPath: Temp\UnityTempFile-ead572d4eff559849b9109f776baa5de
+  - path: Fox Trail\Temp\UnityTempFile-65a7926f2ada2794f92485e915376e45
+    fullPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox Trail\Temp\UnityTempFile-65a7926f2ada2794f92485e915376e45
+    projectPath: Temp\UnityTempFile-65a7926f2ada2794f92485e915376e45
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

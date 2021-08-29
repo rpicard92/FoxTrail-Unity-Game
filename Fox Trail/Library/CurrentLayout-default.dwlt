@@ -71,7 +71,7 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 781, y: 492}
+  m_MinSize: {x: 881, y: 492}
   m_MaxSize: {x: 16006, y: 14042}
   vertical: 0
   controlID: 178
@@ -249,7 +249,7 @@ MonoBehaviour:
     y: 0
     width: 1481
     height: 947
-  m_MinSize: {x: 505, y: 492}
+  m_MinSize: {x: 605, y: 492}
   m_MaxSize: {x: 12005, y: 14042}
   vertical: 1
   controlID: 58
@@ -275,7 +275,7 @@ MonoBehaviour:
     y: 0
     width: 1481
     height: 652
-  m_MinSize: {x: 505, y: 221}
+  m_MinSize: {x: 605, y: 221}
   m_MaxSize: {x: 12005, y: 4021}
   vertical: 0
   controlID: 59
@@ -289,7 +289,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: AnimatorControllerTool
+  m_Name: SceneView
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -298,14 +298,14 @@ MonoBehaviour:
     y: 0
     width: 701
     height: 652
-  m_MinSize: {x: 102, y: 121}
+  m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 13}
+  m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
   - {fileID: 13}
-  m_Selected: 1
-  m_LastSelected: 0
+  m_Selected: 0
+  m_LastSelected: 1
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -477,13 +477,13 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Materials
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Materials
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\computer\Meadow-Unity-Game\FoxTrail-Unity-Game\Fox
     Trail
@@ -491,9 +491,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 683f0000
-    m_LastClickedID: 16232
-    m_ExpandedIDs: 00000000683f00006a3f00006c3f00006e3f000000ca9a3b
+    m_SelectedIDs: 22a30000
+    m_LastClickedID: 41762
+    m_ExpandedIDs: 00000000683f00001a41000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -548,8 +548,8 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: c6230000a67b0000e27b0000927b000000000000
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: c6230000a67b0000e27b0000927b0000000000003a530000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -609,7 +609,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
+  m_LastVerticalScrollValue: 267
   m_GlobalObjectId: 
   m_LockTracker:
     m_IsLocked: 0
@@ -642,23 +642,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 54fbffff
+      m_SelectedIDs: d4910000
+      m_LastClickedID: 37332
+      m_ExpandedIDs: 06bfffff26c0ffff96d9ffffa8e7ffff38f5ffff54fbffff66570000bc570000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: Fox
+        m_OriginalName: Fox
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: -9834
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 5}
       m_SearchString: 
@@ -704,9 +704,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -74.87601, y: -52.34415, z: 17.401258}
+    m_Target: {x: -62.592102, y: -20.953337, z: 91.48527}
     speed: 2
-    m_Value: {x: -74.87601, y: -52.34415, z: 17.401258}
+    m_Value: {x: -62.592102, y: -20.953337, z: 91.48527}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -753,13 +753,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.22084953, y: 0.59017897, z: -0.17214595, w: -0.75715446}
+    m_Target: {x: -0.104125924, y: 0.30993143, z: -0.034170926, w: -0.9444232}
     speed: 2
-    m_Value: {x: -0.22084922, y: 0.59017813, z: -0.1721457, w: -0.7571534}
+    m_Value: {x: -0.1041258, y: 0.30993107, z: -0.034170885, w: -0.94442207}
   m_Size:
-    m_Target: 57.444
+    m_Target: 64.64846
     speed: 2
-    m_Value: 57.444
+    m_Value: 64.64846
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -839,8 +839,8 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMin: 1
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
-    m_HSlider: 1
-    m_VSlider: 1
+    m_HSlider: 0
+    m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
@@ -853,8 +853,8 @@ MonoBehaviour:
       y: 21
       width: 458
       height: 610
-    m_Scale: {x: 1.0609, y: 1.0609}
-    m_Translation: {x: 242.94609, y: 323.5745}
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 229, y: 305}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -863,8 +863,8 @@ MonoBehaviour:
       serializedVersion: 2
       x: -229
       y: -305
-      width: 431.70892
-      height: 574.9835
+      width: 458
+      height: 610
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 458, y: 631}

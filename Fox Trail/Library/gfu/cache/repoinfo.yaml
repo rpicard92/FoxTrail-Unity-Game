@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-08-28T19:32:51.295-05:00
-  initializedAtString: 2021-08-28T19:32:51.295-05:00
+  lastUpdatedAtString: 2021-08-28T19:37:21.038-05:00
+  initializedAtString: 2021-08-28T19:37:21.038-05:00
   currentGitRemote:
     name: origin
     url: https://github.com/rpicard92/FoxTrail-Unity-Game
